@@ -1,4 +1,4 @@
-# Rana Al-Dosari — CMPS310 Fall 2026
+# Rana Al-Dosari, CMPS310 Fall 2026
 
 | | |
 |---|---|
